@@ -1,4 +1,5 @@
 #first
+#third
 echo "starting"
 
 for file in *.txt
